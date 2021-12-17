@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cheongzz.
-- 👀 I’m interested in python to help with my school work and Raspberry Pi projects.
+- 👀 I’m interested in python to help with my school work and home Raspberry Pi projects.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate the future when I am more ready technically
+- 💞️ I’m looking to collaborate in the future when I am more ready technically
 - 📫 How to reach me. Via Github??
 
 <!---
